@@ -1,0 +1,322 @@
+<svg id="sankey_svg" height="2500" width="1500" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 17/02/2022, 05:18:48 -->
+<rect height="2500" width="1500" fill="#ffffff"></rect>
+<g transform="translate(12,18)">
+<g id="sankey_flows">
+<path class="link" d="M1109 1271.24388C1288.5 1271.24388 1288.5 1261.48659 1468 1261.48659" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 1554.76px;"><title>non-elastic (MT3) &#8594; total (MT1):
+235</title></path>
+<path class="link" d="M742 943.25005C921.5 943.25005 921.5 1039.68388 1101 1039.68388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 694.68px;"><title>absorption (MT27) &#8594; non-elastic (MT3):
+105</title></path>
+<path class="link" d="M375 1017.46538C554.5 1017.46538 554.5 1025.95005 734 1025.95005" style="stroke: rgb(158, 154, 200); opacity: 0.4; fill: none; stroke-width: 529.28px;"><title>disappearance (MT101) &#8594; absorption (MT27):
+80</title></path>
+<path class="link" d="M375 318.86628C738 318.86628 738 593.10388 1101 593.10388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 198.48px;"><title>inelastic scattering (MT4) &#8594; non-elastic (MT3):
+30</title></path>
+<path class="link" d="M375 557.28466C554.5 557.28466 554.5 678.61005 734 678.61005" style="stroke: rgb(158, 154, 200); opacity: 0.4; fill: none; stroke-width: 165.4px;"><title>fission (MT18) &#8594; absorption (MT27):
+25</title></path>
+<path class="link" d="M8 33.08C738 33.08 738 451.02659 1468 451.02659" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 66.16px;"><title>elastic scattering (MT2) &#8594; total (MT1):
+10</title></path>
+<path class="link" d="M8 117.24C187.5 117.24 187.5 252.70628 367 252.70628" style="stroke: rgb(253, 208, 162); opacity: 0.4; fill: none; stroke-width: 66.16px;"><title>neutron production 1st (MT51) &#8594; inelastic scattering (MT4):
+10</title></path>
+<path class="link" d="M8 405.72C187.5 405.72 187.5 507.66466 367 507.66466" style="stroke: rgb(116, 196, 118); opacity: 0.4; fill: none; stroke-width: 66.16px;"><title>first chance fission (MT19) &#8594; fission (MT18):
+10</title></path>
+<path class="link" d="M8 643.12C187.5 643.12 187.5 785.90538 367 785.90538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 66.16px;"><title>radiative capture (MT102) &#8594; disappearance (MT101):
+10</title></path>
+<path class="link" d="M8 1425.86C554.5 1425.86 554.5 1403.56388 1101 1403.56388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 neutron + D (MT11) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1476.94C554.5 1476.94 554.5 1436.64388 1101 1436.64388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 neutron (MT16) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1528.02C554.5 1528.02 554.5 1469.72388 1101 1469.72388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>3 neutron (MT17) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1579.1C554.5 1579.1 554.5 1502.80388 1101 1502.80388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + alpha (MT22) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1630.18C554.5 1630.18 554.5 1535.88388 1101 1535.88388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + 3 alpha (MT23) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1681.26C554.5 1681.26 554.5 1568.96388 1101 1568.96388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 neutron + alpha (MT24) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1732.34C554.5 1732.34 554.5 1602.04388 1101 1602.04388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>3 neutron + alpha (MT25) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1783.42C554.5 1783.42 554.5 1635.12388 1101 1635.12388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + proton (MT28) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1834.5C554.5 1834.5 554.5 1668.20388 1101 1668.20388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + 2 alpha (MT29) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1885.58C554.5 1885.58 554.5 1701.28388 1101 1701.28388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 neutron + 2 alpha (MT30) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1936.66C554.5 1936.66 554.5 1734.36388 1101 1734.36388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + D (MT32) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 1987.74C554.5 1987.74 554.5 1767.44388 1101 1767.44388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + T (MT33) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2038.82C554.5 2038.82 554.5 1800.52388 1101 1800.52388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + He3 (MT34) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2089.9C554.5 2089.9 554.5 1833.60388 1101 1833.60388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + D + 2 alpha (MT35) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2140.98C554.5 2140.98 554.5 1866.68388 1101 1866.68388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + T + 2 alpha (MT36) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2192.06C554.5 2192.06 554.5 1899.76388 1101 1899.76388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>4 neutron (MT37) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2243.14C554.5 2243.14 554.5 1932.84388 1101 1932.84388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 neutron + proton (MT41) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2294.22C554.5 2294.22 554.5 1965.92388 1101 1965.92388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>3 neutron + proton (MT42) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2345.3C554.5 2345.3 554.5 1999.00388 1101 1999.00388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + 2 proton (MT44) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 2396.38C554.5 2396.38 554.5 2032.08388 1101 2032.08388" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron + proton + alpha (MT45) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 184.86C187.5 184.86 187.5 302.32628 367 302.32628" style="stroke: rgb(253, 208, 162); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron production 2nd (MT52) &#8594; inelastic scattering (MT4):
+5</title></path>
+<path class="link" d="M8 235.94C187.5 235.94 187.5 335.40628 367 335.40628" style="stroke: rgb(253, 208, 162); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron production 3rd (MT53) &#8594; inelastic scattering (MT4):
+5</title></path>
+<path class="link" d="M8 287.02C187.5 287.02 187.5 368.48628 367 368.48628" style="stroke: rgb(253, 208, 162); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron production 40th (MT90) &#8594; inelastic scattering (MT4):
+5</title></path>
+<path class="link" d="M8 338.1C187.5 338.1 187.5 401.56628 367 401.56628" style="stroke: rgb(253, 208, 162); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>neutron production continuum (MT91) &#8594; inelastic scattering (MT4):
+5</title></path>
+<path class="link" d="M8 473.34C187.5 473.34 187.5 557.28466 367 557.28466" style="stroke: rgb(116, 196, 118); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>second chance fission (MT20) &#8594; fission (MT18):
+5</title></path>
+<path class="link" d="M8 524.42C187.5 524.42 187.5 590.36466 367 590.36466" style="stroke: rgb(116, 196, 118); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>third chance fission (MT21) &#8594; fission (MT18):
+5</title></path>
+<path class="link" d="M8 575.5C187.5 575.5 187.5 623.44466 367 623.44466" style="stroke: rgb(116, 196, 118); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>forth chance fission (MT38) &#8594; fission (MT18):
+5</title></path>
+<path class="link" d="M8 710.74C187.5 710.74 187.5 835.52538 367 835.52538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>proton production (MT103) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 761.82C187.5 761.82 187.5 868.60538 367 868.60538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>D production (MT104) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 812.9C187.5 812.9 187.5 901.68538 367 901.68538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>T production (MT105) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 863.98C187.5 863.98 187.5 934.76538 367 934.76538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>He-3 production (MT106) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 915.06C187.5 915.06 187.5 967.84538 367 967.84538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>alpha production (MT107) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 966.14C187.5 966.14 187.5 1000.92538 367 1000.92538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 alpha production (MT108) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1017.22C187.5 1017.22 187.5 1034.00538 367 1034.00538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>3 alpha production (MT109) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1068.3C187.5 1068.3 187.5 1067.08538 367 1067.08538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>2 proton production (MT111) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1119.38C187.5 1119.38 187.5 1100.16538 367 1100.16538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>proton + alpha production (MT112) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1170.46C187.5 1170.46 187.5 1133.24538 367 1133.24538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>T + 2 alpha production (MT113) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1221.54C187.5 1221.54 187.5 1166.32538 367 1166.32538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>D + 2 alpha production (MT114) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1272.62C187.5 1272.62 187.5 1199.40538 367 1199.40538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>proton + D production (MT115) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1323.7C187.5 1323.7 187.5 1232.48538 367 1232.48538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>proton + T production (MT116) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 1374.78C187.5 1374.78 187.5 1265.56538 367 1265.56538" style="stroke: rgb(218, 218, 235); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>D + alpha production (MT117) &#8594; disappearance (MT101):
+5</title></path>
+<path class="link" d="M8 2447.46C738 2447.46 738 2055.40659 1468 2055.40659" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 33.08px;"><title>anything else (MT5) &#8594; total (MT1):
+5</title></path>
+</g>
+<g id="sankey_nodes" shape-rendering="crispEdges" style="stroke-width: 0px;">
+<g class="node"><rect x="0" y="0" height="66.16" width="8" id="r0" class="for_r0" style="fill: rgb(49, 130, 189); fill-opacity: 1; stroke: rgb(24, 63, 92);"><title>elastic scattering (MT2):
+10</title></rect>
+</g>
+<g class="node"><rect x="1468" y="417.94659" height="1654" width="8" id="r1" class="for_r1" style="fill: rgb(107, 174, 214); fill-opacity: 1; stroke: rgb(52, 85, 104);"><title>total (MT1):
+250</title></rect>
+</g>
+<g class="node"><rect x="0" y="1409.32" height="33.08" width="8" id="r2" class="for_r2" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron + D (MT11):
+5</title></rect>
+</g>
+<g class="node"><rect x="1101" y="493.86388" height="1554.76" width="8" id="r3" class="for_r3" style="fill: rgb(198, 219, 239); fill-opacity: 1; stroke: rgb(97, 107, 117);"><title>non-elastic (MT3):
+235</title></rect>
+</g>
+<g class="node"><rect x="0" y="1460.4" height="33.08" width="8" id="r4" class="for_r4" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron (MT16):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1511.48" height="33.08" width="8" id="r5" class="for_r5" style="fill: rgb(230, 85, 13); fill-opacity: 1; stroke: rgb(112, 41, 6);"><title>3 neutron (MT17):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1562.56" height="33.08" width="8" id="r6" class="for_r6" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + alpha (MT22):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1613.64" height="33.08" width="8" id="r7" class="for_r7" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + 3 alpha (MT23):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1664.72" height="33.08" width="8" id="r8" class="for_r8" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron + alpha (MT24):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1715.8" height="33.08" width="8" id="r9" class="for_r9" style="fill: rgb(230, 85, 13); fill-opacity: 1; stroke: rgb(112, 41, 6);"><title>3 neutron + alpha (MT25):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1766.88" height="33.08" width="8" id="r10" class="for_r10" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + proton (MT28):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1817.96" height="33.08" width="8" id="r11" class="for_r11" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + 2 alpha (MT29):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1869.04" height="33.08" width="8" id="r12" class="for_r12" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron + 2 alpha (MT30):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1920.12" height="33.08" width="8" id="r13" class="for_r13" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + D (MT32):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1971.2" height="33.08" width="8" id="r14" class="for_r14" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + T (MT33):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2022.28" height="33.08" width="8" id="r15" class="for_r15" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + He3 (MT34):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2073.36" height="33.08" width="8" id="r16" class="for_r16" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + D + 2 alpha (MT35):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2124.44" height="33.08" width="8" id="r17" class="for_r17" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + T + 2 alpha (MT36):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2175.52" height="33.08" width="8" id="r18" class="for_r18" style="fill: rgb(253, 174, 107); fill-opacity: 1; stroke: rgb(123, 85, 52);"><title>4 neutron (MT37):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2226.6" height="33.08" width="8" id="r19" class="for_r19" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron + proton (MT41):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2277.68" height="33.08" width="8" id="r20" class="for_r20" style="fill: rgb(230, 85, 13); fill-opacity: 1; stroke: rgb(112, 41, 6);"><title>3 neutron + proton (MT42):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2328.76" height="33.08" width="8" id="r21" class="for_r21" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + 2 proton (MT44):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2379.84" height="33.08" width="8" id="r22" class="for_r22" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron + proton + alpha (MT45):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="84.16" height="66.16" width="8" id="r23" class="for_r23" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron production 1st (MT51):
+10</title></rect>
+</g>
+<g class="node"><rect x="367" y="219.62628" height="198.48" width="8" id="r24" class="for_r24" style="fill: rgb(253, 208, 162); fill-opacity: 1; stroke: rgb(123, 101, 79);"><title>inelastic scattering (MT4):
+30</title></rect>
+</g>
+<g class="node"><rect x="0" y="168.32" height="33.08" width="8" id="r25" class="for_r25" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron production 2nd (MT52):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="219.4" height="33.08" width="8" id="r26" class="for_r26" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron production 3rd (MT53):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="270.48" height="33.08" width="8" id="r27" class="for_r27" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron production 40th (MT90):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="321.56" height="33.08" width="8" id="r28" class="for_r28" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>neutron production continuum (MT91):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="372.64" height="66.16" width="8" id="r29" class="for_r29" style="fill: rgb(49, 163, 84); fill-opacity: 1; stroke: rgb(24, 79, 41);"><title>first chance fission (MT19):
+10</title></rect>
+</g>
+<g class="node"><rect x="367" y="474.58466" height="165.4" width="8" id="r30" class="for_r30" style="fill: rgb(116, 196, 118); fill-opacity: 1; stroke: rgb(56, 96, 57);"><title>fission (MT18):
+25</title></rect>
+</g>
+<g class="node"><rect x="0" y="456.8" height="33.08" width="8" id="r31" class="for_r31" style="fill: rgb(161, 217, 155); fill-opacity: 1; stroke: rgb(78, 106, 75);"><title>second chance fission (MT20):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="507.88" height="33.08" width="8" id="r32" class="for_r32" style="fill: rgb(199, 233, 192); fill-opacity: 1; stroke: rgb(97, 114, 94);"><title>third chance fission (MT21):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="558.96" height="33.08" width="8" id="r33" class="for_r33" style="fill: rgb(117, 107, 177); fill-opacity: 1; stroke: rgb(57, 52, 86);"><title>forth chance fission (MT38):
+5</title></rect>
+</g>
+<g class="node"><rect x="734" y="595.91005" height="694.68" width="8" id="r34" class="for_r34" style="fill: rgb(158, 154, 200); fill-opacity: 1; stroke: rgb(77, 75, 97);"><title>absorption (MT27):
+105</title></rect>
+</g>
+<g class="node"><rect x="0" y="610.04" height="66.16" width="8" id="r35" class="for_r35" style="fill: rgb(188, 189, 220); fill-opacity: 1; stroke: rgb(92, 92, 107);"><title>radiative capture (MT102):
+10</title></rect>
+</g>
+<g class="node"><rect x="367" y="752.82538" height="529.28" width="8" id="r36" class="for_r36" style="fill: rgb(218, 218, 235); fill-opacity: 1; stroke: rgb(106, 106, 115);"><title>disappearance (MT101):
+80</title></rect>
+</g>
+<g class="node"><rect x="0" y="694.2" height="33.08" width="8" id="r37" class="for_r37" style="fill: rgb(99, 99, 99); fill-opacity: 1; stroke: rgb(48, 48, 48);"><title>proton production (MT103):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="745.28" height="33.08" width="8" id="r38" class="for_r38" style="fill: rgb(150, 150, 150); fill-opacity: 1; stroke: rgb(73, 73, 73);"><title>D production (MT104):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="796.36" height="33.08" width="8" id="r39" class="for_r39" style="fill: rgb(189, 189, 189); fill-opacity: 1; stroke: rgb(92, 92, 92);"><title>T production (MT105):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="847.44" height="33.08" width="8" id="r40" class="for_r40" style="fill: rgb(217, 217, 217); fill-opacity: 1; stroke: rgb(106, 106, 106);"><title>He-3 production (MT106):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="898.52" height="33.08" width="8" id="r41" class="for_r41" style="fill: rgb(49, 130, 189); fill-opacity: 1; stroke: rgb(24, 63, 92);"><title>alpha production (MT107):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="949.6" height="33.08" width="8" id="r42" class="for_r42" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 alpha production (MT108):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1000.68" height="33.08" width="8" id="r43" class="for_r43" style="fill: rgb(230, 85, 13); fill-opacity: 1; stroke: rgb(112, 41, 6);"><title>3 alpha production (MT109):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1051.76" height="33.08" width="8" id="r44" class="for_r44" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 proton production (MT111):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1102.84" height="33.08" width="8" id="r45" class="for_r45" style="fill: rgb(99, 99, 99); fill-opacity: 1; stroke: rgb(48, 48, 48);"><title>proton + alpha production (MT112):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1153.92" height="33.08" width="8" id="r46" class="for_r46" style="fill: rgb(189, 189, 189); fill-opacity: 1; stroke: rgb(92, 92, 92);"><title>T + 2 alpha production (MT113):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1205" height="33.08" width="8" id="r47" class="for_r47" style="fill: rgb(150, 150, 150); fill-opacity: 1; stroke: rgb(73, 73, 73);"><title>D + 2 alpha production (MT114):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1256.08" height="33.08" width="8" id="r48" class="for_r48" style="fill: rgb(99, 99, 99); fill-opacity: 1; stroke: rgb(48, 48, 48);"><title>proton + D production (MT115):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1307.16" height="33.08" width="8" id="r49" class="for_r49" style="fill: rgb(99, 99, 99); fill-opacity: 1; stroke: rgb(48, 48, 48);"><title>proton + T production (MT116):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="1358.24" height="33.08" width="8" id="r50" class="for_r50" style="fill: rgb(150, 150, 150); fill-opacity: 1; stroke: rgb(73, 73, 73);"><title>D + alpha production (MT117):
+5</title></rect>
+</g>
+<g class="node"><rect x="0" y="2430.92" height="33.08" width="8" id="r51" class="for_r51" style="fill: rgb(107, 174, 214); fill-opacity: 1; stroke: rgb(52, 85, 104);"><title>anything else (MT5):
+5</title></rect>
+</g>
+</g>
+<g id="sankey_labels" style="font-family: sans-serif; font-size: 15px; font-weight: 400; fill: rgb(0, 0, 0);">
+<text text-anchor="start" x="14" y="33.08" dy=".35em" class="for_r0">elastic scattering (MT2): 10</text>
+<text text-anchor="end" x="1462" y="1244.94659" dy=".35em" class="for_r1">total (MT1): 250</text>
+<text text-anchor="start" x="14" y="1425.86" dy=".35em" class="for_r2">2 neutron + D (MT11): 5</text>
+<text text-anchor="end" x="1095" y="1271.24388" dy=".35em" class="for_r3">non-elastic (MT3): 235</text>
+<text text-anchor="start" x="14" y="1476.94" dy=".35em" class="for_r4">2 neutron (MT16): 5</text>
+<text text-anchor="start" x="14" y="1528.02" dy=".35em" class="for_r5">3 neutron (MT17): 5</text>
+<text text-anchor="start" x="14" y="1579.1" dy=".35em" class="for_r6">neutron + alpha (MT22): 5</text>
+<text text-anchor="start" x="14" y="1630.18" dy=".35em" class="for_r7">neutron + 3 alpha (MT23): 5</text>
+<text text-anchor="start" x="14" y="1681.26" dy=".35em" class="for_r8">2 neutron + alpha (MT24): 5</text>
+<text text-anchor="start" x="14" y="1732.34" dy=".35em" class="for_r9">3 neutron + alpha (MT25): 5</text>
+<text text-anchor="start" x="14" y="1783.42" dy=".35em" class="for_r10">neutron + proton (MT28): 5</text>
+<text text-anchor="start" x="14" y="1834.5" dy=".35em" class="for_r11">neutron + 2 alpha (MT29): 5</text>
+<text text-anchor="start" x="14" y="1885.58" dy=".35em" class="for_r12">2 neutron + 2 alpha (MT30): 5</text>
+<text text-anchor="start" x="14" y="1936.66" dy=".35em" class="for_r13">neutron + D (MT32): 5</text>
+<text text-anchor="start" x="14" y="1987.74" dy=".35em" class="for_r14">neutron + T (MT33): 5</text>
+<text text-anchor="start" x="14" y="2038.82" dy=".35em" class="for_r15">neutron + He3 (MT34): 5</text>
+<text text-anchor="start" x="14" y="2089.9" dy=".35em" class="for_r16">neutron + D + 2 alpha (MT35): 5</text>
+<text text-anchor="start" x="14" y="2140.98" dy=".35em" class="for_r17">neutron + T + 2 alpha (MT36): 5</text>
+<text text-anchor="start" x="14" y="2192.06" dy=".35em" class="for_r18">4 neutron (MT37): 5</text>
+<text text-anchor="start" x="14" y="2243.14" dy=".35em" class="for_r19">2 neutron + proton (MT41): 5</text>
+<text text-anchor="start" x="14" y="2294.22" dy=".35em" class="for_r20">3 neutron + proton (MT42): 5</text>
+<text text-anchor="start" x="14" y="2345.3" dy=".35em" class="for_r21">neutron + 2 proton (MT44): 5</text>
+<text text-anchor="start" x="14" y="2396.38" dy=".35em" class="for_r22">neutron + proton + alpha (MT45): 5</text>
+<text text-anchor="start" x="14" y="117.24" dy=".35em" class="for_r23">neutron production 1st (MT51): 10</text>
+<text text-anchor="start" x="381" y="318.86628" dy=".35em" class="for_r24">inelastic scattering (MT4): 30</text>
+<text text-anchor="start" x="14" y="184.86" dy=".35em" class="for_r25">neutron production 2nd (MT52): 5</text>
+<text text-anchor="start" x="14" y="235.94" dy=".35em" class="for_r26">neutron production 3rd (MT53): 5</text>
+<text text-anchor="start" x="14" y="287.02" dy=".35em" class="for_r27">neutron production 40th (MT90): 5</text>
+<text text-anchor="start" x="14" y="338.1" dy=".35em" class="for_r28">neutron production continuum (MT91): 5</text>
+<text text-anchor="start" x="14" y="405.72" dy=".35em" class="for_r29">first chance fission (MT19): 10</text>
+<text text-anchor="start" x="381" y="557.28466" dy=".35em" class="for_r30">fission (MT18): 25</text>
+<text text-anchor="start" x="14" y="473.34" dy=".35em" class="for_r31">second chance fission (MT20): 5</text>
+<text text-anchor="start" x="14" y="524.42" dy=".35em" class="for_r32">third chance fission (MT21): 5</text>
+<text text-anchor="start" x="14" y="575.5" dy=".35em" class="for_r33">forth chance fission (MT38): 5</text>
+<text text-anchor="end" x="728" y="943.25005" dy=".35em" class="for_r34">absorption (MT27): 105</text>
+<text text-anchor="start" x="14" y="643.12" dy=".35em" class="for_r35">radiative capture (MT102): 10</text>
+<text text-anchor="start" x="381" y="1017.46538" dy=".35em" class="for_r36">disappearance (MT101): 80</text>
+<text text-anchor="start" x="14" y="710.74" dy=".35em" class="for_r37">proton production (MT103): 5</text>
+<text text-anchor="start" x="14" y="761.82" dy=".35em" class="for_r38">D production (MT104): 5</text>
+<text text-anchor="start" x="14" y="812.9" dy=".35em" class="for_r39">T production (MT105): 5</text>
+<text text-anchor="start" x="14" y="863.98" dy=".35em" class="for_r40">He-3 production (MT106): 5</text>
+<text text-anchor="start" x="14" y="915.06" dy=".35em" class="for_r41">alpha production (MT107): 5</text>
+<text text-anchor="start" x="14" y="966.14" dy=".35em" class="for_r42">2 alpha production (MT108): 5</text>
+<text text-anchor="start" x="14" y="1017.22" dy=".35em" class="for_r43">3 alpha production (MT109): 5</text>
+<text text-anchor="start" x="14" y="1068.3" dy=".35em" class="for_r44">2 proton production (MT111): 5</text>
+<text text-anchor="start" x="14" y="1119.38" dy=".35em" class="for_r45">proton + alpha production (MT112): 5</text>
+<text text-anchor="start" x="14" y="1170.46" dy=".35em" class="for_r46">T + 2 alpha production (MT113): 5</text>
+<text text-anchor="start" x="14" y="1221.54" dy=".35em" class="for_r47">D + 2 alpha production (MT114): 5</text>
+<text text-anchor="start" x="14" y="1272.62" dy=".35em" class="for_r48">proton + D production (MT115): 5</text>
+<text text-anchor="start" x="14" y="1323.7" dy=".35em" class="for_r49">proton + T production (MT116): 5</text>
+<text text-anchor="start" x="14" y="1374.78" dy=".35em" class="for_r50">D + alpha production (MT117): 5</text>
+<text text-anchor="start" x="14" y="2447.46" dy=".35em" class="for_r51">anything else (MT5): 5</text>
+</g>
+</g></svg>

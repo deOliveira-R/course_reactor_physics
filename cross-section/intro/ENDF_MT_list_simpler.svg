@@ -1,0 +1,76 @@
+<svg id="sankey_svg" height="500" width="1200" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 17/02/2022, 05:26:15 -->
+<rect height="500" width="1200" fill="#ffffff"></rect>
+<g transform="translate(12,18)">
+<g id="sankey_flows">
+<path class="link" d="M884 250.92643C1026 250.92643 1026 245.25914 1168 245.25914" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 258.909px;"><title>non-elastic (MT3) &#8594; total (MT1):
+40</title></path>
+<path class="link" d="M592 189.62713C734 189.62713 734 202.38097 876 202.38097" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 161.818px;"><title>absorption (MT27) &#8594; non-elastic (MT3):
+25</title></path>
+<path class="link" d="M300 144.50209C442 144.50209 442 157.26349 584 157.26349" style="stroke: rgb(49, 163, 84); opacity: 0.4; fill: none; stroke-width: 97.0909px;"><title>fission (MT18) &#8594; absorption (MT27):
+15</title></path>
+<path class="link" d="M8 32.36364C588 32.36364 588 83.44096 1168 83.44096" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 64.7273px;"><title>elastic scattering (MT2) &#8594; total (MT1):
+10</title></path>
+<path class="link" d="M8 381.27273C442 381.27273 442 348.01734 876 348.01734" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 64.7273px;"><title>inelastic scattering (MT4) &#8594; non-elastic (MT3):
+10</title></path>
+<path class="link" d="M8 115.09091C150 115.09091 150 128.32027 292 128.32027" style="stroke: rgb(253, 174, 107); opacity: 0.4; fill: none; stroke-width: 64.7273px;"><title>first chance fission (MT19) &#8594; fission (MT18):
+10</title></path>
+<path class="link" d="M8 248.18182C296 248.18182 296 238.17258 584 238.17258" style="stroke: rgb(49, 163, 84); opacity: 0.4; fill: none; stroke-width: 64.7273px;"><title>radiative capture (MT102) &#8594; absorption (MT27):
+10</title></path>
+<path class="link" d="M8 314.72727C442 314.72727 442 299.47188 876 299.47188" style="stroke: rgb(198, 219, 239); opacity: 0.4; fill: none; stroke-width: 32.3636px;"><title>2 neutron (MT16) &#8594; non-elastic (MT3):
+5</title></path>
+<path class="link" d="M8 181.63636C150 181.63636 150 176.86572 292 176.86572" style="stroke: rgb(253, 174, 107); opacity: 0.4; fill: none; stroke-width: 32.3636px;"><title>second chance fission (MT20) &#8594; fission (MT18):
+5</title></path>
+<path class="link" d="M8 447.81818C588 447.81818 588 390.8955 1168 390.8955" style="stroke: rgb(107, 174, 214); opacity: 0.4; fill: none; stroke-width: 32.3636px;"><title>anything else (MT5) &#8594; total (MT1):
+5</title></path>
+</g>
+<g id="sankey_nodes" shape-rendering="crispEdges" style="stroke-width: 0px;">
+<g class="node"><rect x="0" y="0" height="64.72727" width="8" id="r0" class="for_r0" style="fill: rgb(49, 130, 189); fill-opacity: 1; stroke: rgb(24, 63, 92);"><title>elastic scattering (MT2):
+10</title></rect>
+</g>
+<g class="node"><rect x="1168" y="51.07732" height="356" width="8" id="r1" class="for_r1" style="fill: rgb(107, 174, 214); fill-opacity: 1; stroke: rgb(52, 85, 104);"><title>total (MT1):
+55</title></rect>
+</g>
+<g class="node"><rect x="0" y="298.54545" height="32.36364" width="8" id="r2" class="for_r2" style="fill: rgb(158, 202, 225); fill-opacity: 1; stroke: rgb(77, 98, 110);"><title>2 neutron (MT16):
+5</title></rect>
+</g>
+<g class="node"><rect x="876" y="121.47188" height="258.90909" width="8" id="r3" class="for_r3" style="fill: rgb(198, 219, 239); fill-opacity: 1; stroke: rgb(97, 107, 117);"><title>non-elastic (MT3):
+40</title></rect>
+</g>
+<g class="node"><rect x="0" y="348.90909" height="64.72727" width="8" id="r4" class="for_r4" style="fill: rgb(230, 85, 13); fill-opacity: 1; stroke: rgb(112, 41, 6);"><title>inelastic scattering (MT4):
+10</title></rect>
+</g>
+<g class="node"><rect x="0" y="82.72727" height="64.72727" width="8" id="r5" class="for_r5" style="fill: rgb(253, 141, 60); fill-opacity: 1; stroke: rgb(123, 69, 29);"><title>first chance fission (MT19):
+10</title></rect>
+</g>
+<g class="node"><rect x="292" y="95.95663" height="97.09091" width="8" id="r6" class="for_r6" style="fill: rgb(253, 174, 107); fill-opacity: 1; stroke: rgb(123, 85, 52);"><title>fission (MT18):
+15</title></rect>
+</g>
+<g class="node"><rect x="0" y="165.45455" height="32.36364" width="8" id="r7" class="for_r7" style="fill: rgb(253, 208, 162); fill-opacity: 1; stroke: rgb(123, 101, 79);"><title>second chance fission (MT20):
+5</title></rect>
+</g>
+<g class="node"><rect x="584" y="108.71804" height="161.81818" width="8" id="r8" class="for_r8" style="fill: rgb(49, 163, 84); fill-opacity: 1; stroke: rgb(24, 79, 41);"><title>absorption (MT27):
+25</title></rect>
+</g>
+<g class="node"><rect x="0" y="215.81818" height="64.72727" width="8" id="r9" class="for_r9" style="fill: rgb(116, 196, 118); fill-opacity: 1; stroke: rgb(56, 96, 57);"><title>radiative capture (MT102):
+10</title></rect>
+</g>
+<g class="node"><rect x="0" y="431.63636" height="32.36364" width="8" id="r10" class="for_r10" style="fill: rgb(161, 217, 155); fill-opacity: 1; stroke: rgb(78, 106, 75);"><title>anything else (MT5):
+5</title></rect>
+</g>
+</g>
+<g id="sankey_labels" style="font-family: sans-serif; font-size: 15px; font-weight: 400; fill: rgb(0, 0, 0);">
+<text text-anchor="start" x="14" y="32.36364" dy=".35em" class="for_r0">elastic scattering (MT2): 10</text>
+<text text-anchor="end" x="1162" y="229.07732" dy=".35em" class="for_r1">total (MT1): 55</text>
+<text text-anchor="start" x="14" y="314.72727" dy=".35em" class="for_r2">2 neutron (MT16): 5</text>
+<text text-anchor="end" x="870" y="250.92643" dy=".35em" class="for_r3">non-elastic (MT3): 40</text>
+<text text-anchor="start" x="14" y="381.27273" dy=".35em" class="for_r4">inelastic scattering (MT4): 10</text>
+<text text-anchor="start" x="14" y="115.09091" dy=".35em" class="for_r5">first chance fission (MT19): 10</text>
+<text text-anchor="start" x="306" y="144.50209" dy=".35em" class="for_r6">fission (MT18): 15</text>
+<text text-anchor="start" x="14" y="181.63636" dy=".35em" class="for_r7">second chance fission (MT20): 5</text>
+<text text-anchor="end" x="578" y="189.62713" dy=".35em" class="for_r8">absorption (MT27): 25</text>
+<text text-anchor="start" x="14" y="248.18182" dy=".35em" class="for_r9">radiative capture (MT102): 10</text>
+<text text-anchor="start" x="14" y="447.81818" dy=".35em" class="for_r10">anything else (MT5): 5</text>
+</g>
+</g></svg>

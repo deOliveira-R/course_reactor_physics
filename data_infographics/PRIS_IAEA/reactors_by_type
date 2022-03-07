@@ -1,0 +1,10 @@
+# https://pris.iaea.org/PRIS/WorldStatistics/OperationalReactorsByType.aspx
+# Accessed 2/2/2022
+Type Number Power(GWe)
+BWR 	61 	61849
+PWR 	304 288704
+PHWR 	48 	24463
+RBMK 	12 	8358
+AGR  	10 	5650
+HTGR 	1 	200
+FBR 	3 	1400

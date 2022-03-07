@@ -6,6 +6,7 @@ Created on Tue Nov  2 11:07:56 2021
 @author: rodrigo
 """
 
+import numpy as np
 import matplotlib as mpl
 import matplotlib.text as mtext
 import matplotlib.pyplot as plt
@@ -171,8 +172,8 @@ class CurvedText(mtext.Text):
             #the rotation/stretch matrix
             rad = rads[il]
             rot_mat = np.array([
-                [math.cos(rad), math.sin(rad)*aspect],
-                [-math.sin(rad)/aspect, math.cos(rad)]
+                [np.cos(rad), np.sin(rad)*aspect],
+                [-np.sin(rad)/aspect, np.cos(rad)]
             ])
 
             ##computing the offset vector of the rotated character

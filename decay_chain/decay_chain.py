@@ -115,7 +115,7 @@ ax = plot_decay(results)
 ax.set_xlim(xmin=-5)
 ax.set_ylim(ymin=0)
 
-plt.savefig('decay_chain_BiPoPb.pdf', bbox='tight')
+plt.savefig('decay_chain_BiPoPb.pdf', bbox_inches='tight')
 
 
 # set isotopes
@@ -149,4 +149,43 @@ ax = plot_decay(results)
 ax.set_xscale('log')
 ax.set_xlim(xmin=0)
 
-plt.savefig('decay_chain_RbSrYZr.pdf', bbox='tight')
+min = 60
+hour = min * 60
+day = hour * 24
+month = day * 30
+
+top = 1.06e24
+
+ax.axvline(min, ymax=1,
+           color='black',
+           linewidth='0.5',
+           linestyle='--')
+ax.text(min, top, 'minute',
+        fontsize=9,
+        horizontalalignment='center',
+        verticalalignment='center')
+
+ax.axvline(hour, ymax=1,
+           color='black',
+           linewidth='0.5',
+           linestyle='--')
+ax.text(hour, top, 'hour',
+        fontsize=9,
+        horizontalalignment='center',
+        verticalalignment='center')
+
+ax.axvline(day, ymax=1,
+           color='black',
+           linewidth='0.5',
+           linestyle='--')
+ax.text(day, top, 'day',
+        fontsize=9,
+        horizontalalignment='center',
+        verticalalignment='center')
+
+ax.axvline(month, ymax=1,
+           color='black',
+           linewidth='0.5',
+           linestyle='--')
+
+plt.savefig('decay_chain_RbSrYZr.pdf', bbox_inches='tight')
